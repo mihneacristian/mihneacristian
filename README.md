@@ -21,4 +21,4 @@
 #### 🌎 Interested in remote projects!
 
 #### 📬 Feel free to drop an e-mail at mihnea-cristian.popa@outlook.com
-🤝 Let's connect!
+#### 🤝 Let's connect!
