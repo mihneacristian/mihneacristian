@@ -3,7 +3,7 @@
 🚀 Experienced software developer with 2.5+ years of experience in Java and Python development, creating APIs using the Spring Framework, Django, and GeoDjango. Also experienced in Geographic Information Systems and academic research for over 5 years.  
 
 [![Linkedin Badge](https://img.shields.io/badge/Cristian_Popa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/popamihneacristian/)](https://www.linkedin.com/in/popamihneacristian/) 
-[![Outlook Badge](https://img.shields.io/badge/%mihnea_cristian.popa@outlook.com%-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:mihnea-cristian.popa@outlook.com)](mailto:mihnea-cristian.popa@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/mihnea_cristian.popa@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:mihnea-cristian.popa@outlook.com)](mailto:mihnea-cristian.popa@outlook.com)
 
 ## 🧰 Skills
 
